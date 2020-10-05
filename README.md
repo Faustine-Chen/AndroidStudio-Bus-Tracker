@@ -15,3 +15,6 @@
 ②使⽤者輸入路線名稱
 ③語⾳回饋預估到站時間 
 **技術分析:** 利用Android Studio透過Sever連接PTX上的資料，進行資料的處裡與即時的回覆
+
+## Demo Video (僅包含其中即時到站系統、常用路線功能)
+[![](http://img.youtube.com/vi/qo9cwtFCtMA/0.jpg)](http://www.youtube.com/watch?v=qo9cwtFCtMA "")
